@@ -1,3 +1,4 @@
+%memeda
 cal_b;
 file1 = fopen('config.csv');
 data = textscan(file1,'%s%f%f%f%f%f','delimiter', ',','headerlines',1);
